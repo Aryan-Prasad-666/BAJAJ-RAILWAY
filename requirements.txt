@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+PyPDF2
+numpy
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
+langchain
+langchain-google-genai
